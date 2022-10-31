@@ -5,6 +5,13 @@
     overflow: hidden;
 } */
 
+#quote-button-final {
+    background-color: blue;
+    color: whitesmoke;
+    height: 2rem;
+    width: 6rem;
+}
+
 #calendar-wrapper {
     width: 100%;
     height: 100%;
