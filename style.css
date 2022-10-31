@@ -1,9 +1,9 @@
-#calendar-holder {
+/* #calendar-holder {
     height: 500px;
     width: 500px;
     display: flex;
     overflow: hidden;
-}
+} */
 
 #calendar-wrapper {
     width: 100%;
